@@ -2,6 +2,7 @@
 #include <linux/miscdevice.h>
 #include <linux/uaccess.h>
 #include <linux/io.h>
+#include <linux/fs.h>
 #include "tpmttl.h"
 
 
